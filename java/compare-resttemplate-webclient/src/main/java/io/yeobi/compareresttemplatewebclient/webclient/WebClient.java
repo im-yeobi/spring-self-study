@@ -1,2 +1,3 @@
-package io.yeobi.compareresttemplatewebclient.webclient;public class WebClient {
-}
+package io.yeobi.compareresttemplatewebclient.webclient;
+
+public class WebClient {}
